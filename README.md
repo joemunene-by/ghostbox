@@ -1,4 +1,8 @@
-# ghostbox
+<p align="center">
+  <img src="assets/logo.svg" width="120" height="120" alt="ghostbox logo">
+</p>
+
+<h1 align="center">ghostbox</h1>
 
 A static malware analysis sandbox for authorized triage. ghostbox inspects a
 suspicious file and produces an explainable threat assessment using safe, static
